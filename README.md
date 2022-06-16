@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ARLY-LC-JUNIOR
+    -               👋 Hi, I’m @ARLY-LC-JUNIOR
 - 👀 I’m interested in  = troca de idedias e aprendizado continuo
--- 🌱 I’m currently learning ...  linguagens_C_C++ - Java - JS - CSS
 - 💞️ I’m looking to collaborate ao máximo no que puder   
 - 📫 How to reach me = Se Deus guia os nossos passos ninguem desviará nossos caminhos  
 
