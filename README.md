@@ -1,24 +1,6 @@
-### Hi there ### Hi there 👋
-
-**ARLY-LC-JUNIOR/ARLY-LC-JUNIOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...na dedicação e aprendizado contínuo   
-- 🌱 I’m currently learning ...Linguagens C C++ C# Java JS e CSS
-- 👯 I’m looking to collaborate on ...tudo que puder envolver trocas e aprendizado
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-  - 📫 Como chegar até mim: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ... longboard life style skate e vida nos eixos
-
-
-**ARLY-LC-JUNIOR/ARLY-LC-JUNIOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...na dedicação e aprendizado contínuo   
-- 🌱 I’m currently learning ...Linguagens C C++ C# Java JS e CSS
-- 👯 I’m looking to collaborate on ...tudo que puder envolver trocas e aprendizado
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-  - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  longboard life style skate e  vida nos eixos
+  ### Olá, seja mais que bem vindo ao meu perfil ### Hi there 👋
+  Eu sou o ** ARLY JUNIOR ** 
+- 🔭 No momento estou Analista Comercial em uma empresa desenvolvedora de Software mais precisamente - Soluções em ERP para Indústrias.    
+- 🌱 Adeapto ao Lifelong learning (contínuo aprendizado) - atualmente no aprendizado teorico e #pracima praticando...Linguagens C, C++, C#, Java, JS, e CSS, PHP, Database, SQL, NoSql.
+- 👯 Curso atualmente Bacharelado em Administração de Empresas, em parealelo Segurança da Informação, (Sim as duas em paralelo) quanto mais eu aproveitar as oportunidades em tempo, melhor. visando com isso agregar conhecimentos, e "botar" em prática, tornar cada vez mais tangível maneiras de combinar tecnologia e negócios
+- ⚡ Fato curioso: "Gosto muito de colocar a vidas nos eixos" calma ai rsrs do tipo...longboard life style, skate street. 
