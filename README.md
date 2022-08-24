@@ -1,5 +1,5 @@
 ### Hi there ### Hi there 👋
-<!--
+
 **ARLY-LC-JUNIOR/ARLY-LC-JUNIOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...na dedicação e aprendizado contínuo   
@@ -10,8 +10,8 @@ Here are some ideas to get you started:
   - 📫 Como chegar até mim: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ... longboard life style skate e vida nos eixos
--->
-<!--
+
+
 **ARLY-LC-JUNIOR/ARLY-LC-JUNIOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...na dedicação e aprendizado contínuo   
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
   - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--                    ⚡ Fun fact: ...  longboard life style skate e  vida nos eixos
+- ⚡ Fun fact: ...  longboard life style skate e  vida nos eixos
