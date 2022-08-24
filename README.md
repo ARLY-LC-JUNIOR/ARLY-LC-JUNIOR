@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... na dedicação e aprendizado contínuo   
-- 🌱 I’m currently learning ... Linguagens C C++ C# Java JS e CSS
-- 👯 I’m looking to collaborate on ... tudo que puder envolver trocas e aprendizado
+- 🔭 I’m currently working on ...na dedicação e aprendizado contínuo   
+- 🌱 I’m currently learning ...Linguagens C C++ C# Java JS e CSS
+- 👯 I’m looking to collaborate on ...tudo que puder envolver trocas e aprendizado
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
   - 📫 How to reach me: ...
