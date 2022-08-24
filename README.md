@@ -1,4 +1,4 @@
-- ### Olá, seja mais que bem vindo ao meu perfil ### 👋
+- Olá, seja mais que bem vindo ao meu perfil 👋
 - Eu sou o ** ARLY JUNIOR ** 
 - 🔭 No momento estou Analista Comercial em uma empresa desenvolvedora de Softwares, mais precisamente, - Soluções em ERP para Indústrias.    
 - 🌱 Adepto ao Lifelong learning (contínuo aprendizado) - atualmente no aprendizado #praticando...Linguagens C, C++, C#, Java, JS, e CSS, PHP, Database, SQL, NoSql.
