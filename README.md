@@ -5,4 +5,4 @@
 - 😄 Quanto mais eu puder aproveitar as oportunidades em tempo, melhor, visando com isso agregar conhecimentos, e colocar em prática, tornar cada vez mais tangível maneiras de combinar tecnologia e negócios, e porquê não, ser um desenvolvedor, programador hard skill diferenciado.
 - 🌱 Adepto ao Lifelong learning (contínuo aprendizado) > atualmente no aprendizado #praticando, linguagens: C, C++, C#, Java, JS, CSS, HTML, PHP, SQL, NoSql e Database.
 - 💬 Pratico e fomento o Giveback = (Retribuição, troca de conhecimentos e aprendizados).
-- ⚡ Fato curioso: "Gosto muito de colocar a vidas nos Eixos" rsrs calma ai rsrs < nos eixos do tipo...longboard, skate street...life style >
+- ⚡ Fato curioso: "Gosto muito de colocar a vidas nos Eixos" rsrs calma ai rsrs < nos eixos do tipo...longboard, skate street...life style > 
