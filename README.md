@@ -1,4 +1,4 @@
-   ## "Olá ! seja mais que bem vindo ao meu perfil" ##  
+ ## "Olá👋! seja bem vindo ao meu perfil" ##  
    
    - ### 🎓 Formação Acadêmica 🎓 ###
 - 📈 Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid) 
