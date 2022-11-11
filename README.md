@@ -7,7 +7,8 @@
    - ⚠️ Aprendizado continuo das linguagens: Readme Em construção
    
 <div align="center">
-<a href="https://github.com/ARLY-LC-JUNIOR"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/><img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=gotham"/><div style="display: inline_block"><br>
+<a href="https://github.com/ARLY-LC-JUNIOR"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/><img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=gotham"/><div style="display:inline_block">
+
 <h1>
 Linguagens em Aprendizado 
 <h1> 
