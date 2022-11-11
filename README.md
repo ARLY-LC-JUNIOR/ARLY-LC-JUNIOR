@@ -1,4 +1,4 @@
-  ## 👨‍💻 Olá! seja bem vindo ao meu perfil  ##
+  ## 👨‍💻  Olá! seja bem vindo ao meu perfil  ##
    
    - ### 🎓 Formação Acadêmica 🎓 ###
    - 📈 Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
@@ -7,8 +7,8 @@
    - ⚠️ Aprendizado continuo das linguagens: 
  </div>
 <a href="https://github.com/ARLY-LC-JUNIOR">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=tokyonight"/>
 <h1>
 Linguagens em Aprendizado 
 <h1> <img align="center" alt="ARLY-Js" height="30" width="40"
