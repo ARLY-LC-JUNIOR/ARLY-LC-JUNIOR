@@ -4,9 +4,10 @@
    - 📈 Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
    - 💻 Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
    - 💻 Cursando Bootcamp: Python Developer | JAVA | .Net | SQL Database Specialist - (Dio).
-   - ⚠️ Aprendizado continuo das linguagens: 
+   - ⚠️ Aprendizado continuo das linguagens: Readme Em construção
+   
 <div align="center">
-<a href="https://github.com/ARLY-LC-JUNIOR"><img height="132em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="132em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=tokyonight"/><div style="display: inline_block"><br>
+<a href="https://github.com/ARLY-LC-JUNIOR"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/><img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=gotham"/><div style="display: inline_block"><br>
 <h1>
 Linguagens em Aprendizado 
 <h1> 
