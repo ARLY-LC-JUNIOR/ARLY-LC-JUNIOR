@@ -11,8 +11,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=tokyonight"/>
 <h1>
 Linguagens em Aprendizado 
-<h1>
-<img align="center" alt="ARLY-Js" height="30" width="40"
+<h1> <img align="center" alt="ARLY-Js" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ARLY-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
