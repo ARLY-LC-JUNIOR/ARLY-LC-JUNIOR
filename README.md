@@ -5,9 +5,9 @@
    - 💻 Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
    - 💻 Cursando Bootcamp: Python Developer | JAVA | .Net | SQL Database Specialist - (Dio).
    - ⚠️ Aprendizado continuo das linguagens: 
- </div>
-<a href="https://github.com/ARLY-LC-JUNIOR"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=tokyonight"/>
-<h1>
+   
+</div>
+<a href="https://github.com/ARLY-LC-JUNIOR"><img height="135em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="135em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=tokyonight"/><h1>
 Linguagens em Aprendizado 
 <h1> 
 <img align="center" alt="ARLY-Js" height="30" width="40"
