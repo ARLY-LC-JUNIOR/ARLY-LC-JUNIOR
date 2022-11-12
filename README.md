@@ -18,6 +18,7 @@
 <img align="center" alt="ARLY-java" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="ARLY-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="ARLY-Csharp" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="ARLY-Goheight="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 
 ##
