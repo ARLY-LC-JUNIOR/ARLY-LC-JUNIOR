@@ -4,7 +4,7 @@
    - 📈 Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
    - 💻 Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
    - 💻 Cursando Bootcamps: Python Developer | JAVA | .Net | SQL Database Specialist - (Dio).
-   - ⚠️ Readme em fase de construção | _Liguagenss: Imersões e contínuo aprendizado_
+   - ⚠️ Readme em fase de construção | languages em aprendizado contínuo e imersões.
    
 <div align="center">
 </div>
@@ -18,7 +18,8 @@
 <img align="center" alt="ARLY-java" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="ARLY-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="ARLY-Csharp" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="ARLY-Goheight="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img align="center" alt="ARLY-Go" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+
 
 
 ##
