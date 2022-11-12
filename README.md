@@ -4,7 +4,7 @@
    - 📈 Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
    - 💻 Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
    - 💻 Cursando Bootcamps: Python Developer | JAVA | .Net | SQL Database Specialist - (Dio).
-   - ⚠️ Readme em fase de construção | Liguagens, em imersões e contínuo aprendizado.
+   - ⚠️ Readme em fase de construção | _Liguagenss: Imersões e contínuo aprendizado_
    
 <div align="center">
 </div>
