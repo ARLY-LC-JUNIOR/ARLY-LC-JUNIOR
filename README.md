@@ -3,8 +3,8 @@
    - #### 🎓 Formação Acadêmica 🎓 ####
    - 📈 Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
    - 💻 Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
-   - 💻 Cursando Bootcamps: Python Developer | JAVA | .Net | SQL Database Specialist - (Dio).
-   - ⚠️ Readme em fase de construção.
+   - 💻 Cursando Bootcamps: Python Developer | JAVA | JavaScript | .Net | GO | SQL Database Specialist - (Dio).
+   - ⚠️ Readme em fase de construção e sempre aberto a sugestões de vocês *Devs Friends*.
    
 <div align="center">
 </div>
