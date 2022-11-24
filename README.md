@@ -4,7 +4,7 @@
    - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
    - :computer: Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
    - :desktop_computer: Cursando Bootcamps: Python Developer | JAVA | JavaScript | .Net | GO | SQL Database Specialist - (Dio).
-   - :white_check_mark: Readme e repositórios estou caminhando, em construção, no "bloco a bloco" degrau em degrau mas sempre aberto a sugestões de vocês *Devs Friends*. 
+   - :white_check_mark: Readme, repositórios e projetos estou me desenvolvendo, estão em construção no "bloco a bloco" degrau em degrau💹 mas sempre aberto a sugestões de vocês *Devs Friends*. 
    - :man_office_worker: Minha aspiração e inspiração são mais voltadas para vertentes Back-end. 
    
 <div align="center">
