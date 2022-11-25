@@ -1,4 +1,4 @@
-  ### ​:earth_americas: Hello World! sejam bem vindos ao meu perfil.  ###
+   ###  ​:earth_americas:  Hello World! sejam bem vindos ao meu perfil. ###
    
    - #### 🎓 Formação Acadêmica 🎓 ####
    - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
