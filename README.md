@@ -3,7 +3,7 @@
    
    <div align="center">
    <h1>​:earth_americas:  Sejam bem vindos ao meu perfil.</h1>
-    <h2>Formação Acadêmica 🎓</h2>
+    <h2> 🎓Formação Acadêmica </h2>
    <div align="left">
     
    
@@ -14,9 +14,9 @@
   <div align="center"> 
   <h2> 👩‍💻 Sobre mim </h2>
   <div align="left">
- -:white_check_mark: Readme, repositórios e projetos estou me desenvolvendo, estão em construção no "bloco a bloco" degrau em degrau mas sempre aberto a sugestões de vocês Devs Friends.
+ :white_check_mark: Readme, repositórios e projetos estou me desenvolvendo, estão em construção no "bloco a bloco" degrau em degrau mas sempre aberto a sugestões de vocês Devs Friends.
   <div align="left">
-  -  :man_technologist: Inspirações e aspirações na vertente Back-End | Cybersecurity. 
+ :man_technologist: Inspirações e aspirações na vertente Back-End | Cybersecurity. 
  
    
 <div align="center">
