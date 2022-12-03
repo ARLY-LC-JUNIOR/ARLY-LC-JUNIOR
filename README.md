@@ -1,4 +1,9 @@
-   ###  ​:earth_americas:  Hello World! sejam bem vindos ao meu perfil. ###
+      
+   <div align="center">
+   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="200" height="100" style="background-color:#dddddd;" class="crayons-article__cover__image" alt="Imagem da capa de Hello-World!">
+   <div align="center">​:earth_americas:  Sejam bem vindos ao meu perfil.
+   
+   
    
    - #### 🎓 Formação Acadêmica 🎓 ####
    - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
@@ -6,6 +11,7 @@
    - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database Specialist - (Dio).
    - :white_check_mark: Readme, repositórios e projetos estou me desenvolvendo, estão em construção no "bloco a bloco" degrau em degrau💹 mas sempre aberto a sugestões de vocês *Devs Friends*. 
    - :man_technologist: Inspirações e aspirações na vertente Back-End | Cybersecurity. 
+   
    
 <div align="center">
 </div>
