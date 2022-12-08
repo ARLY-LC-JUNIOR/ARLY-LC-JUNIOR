@@ -1,6 +1,4 @@
-      
-   
-   
+           
    <div align="center">
    <h1>​:earth_americas:  Sejam bem vindos ao meu perfil.</h1>
     <h2> 🎓Formação Acadêmica </h2>
@@ -8,15 +6,15 @@
     
    
    - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
-   - :computer: Cursando: Segurança da Informação - 2° Semestre - FAM (Faculdade das Américas).
+   - :computer: Cursando: Sistemas da Informação - 2° Semestre - FAM (Faculdade das Américas).
    - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist - (Dio).
    ##
   <div align="center"> 
   <h2> 👩‍💻 Sobre mim </h2>
   <div align="left">
-   ° :white_check_mark:  Readme, repositórios e projetos estou me desenvolvendo, estão em construção no "bloco a bloco" degrau em degrau mas sempre aberto a sugestões de vocês Devs Friends.
+   ° :white_check_mark:  Readmes, repositórios, experiência em projetos e desafios, estou me desenvolvendo dia a dia, estão em construção "bloco a bloco" "degrau em   degrau" meus olhos e pensamentos estarão voltados para a busca de aperfeiçoamento e fomentar Giveback, sempre com respeito ao próximo e aberto a sugestões de vocês  Devs Friends.
   <div align="left">
-    ° :man_technologist:  Inspirações e aspirações na vertente Back-End | Cybersecurity. 
+    ° :man_technologist:  Inspirações e aspirações na vertente Back-End | . 
  
    
 <div align="center">
