@@ -1,7 +1,7 @@
            
    <div align="center">
-   <h1>​:earth_americas:  Sejam bem vindos ao meu perfil.</h1>
-    <h2> 🎓Formação Acadêmica </h2>
+   <h2>​:earth_americas:  Sejam bem vindos ao meu perfil.</h2>
+    <h3> 🎓Formação Acadêmica </h3>
    <div align="left">
     
    
@@ -10,7 +10,7 @@
    - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist - (Dio).
    ##
   <div align="center"> 
-  <h2> 👩‍💻 Sobre mim </h2>
+  <h3> 👩‍💻 Sobre mim </h3>
   <div align="left">
    ° :white_check_mark:  Readmes, repositórios, experiência em projetos e desafios, estou me desenvolvendo dia a dia, estão em construção "bloco a bloco" "degrau em   degrau" meus olhos e pensamentos estarão voltados para a busca de aperfeiçoamento e fomentar Giveback, sempre com respeito ao próximo e aberto a sugestões de vocês  Devs Friends.
   <div align="left">
