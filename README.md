@@ -18,8 +18,12 @@
 <div align="center">
 <p>
 <div align="center">
-<a href="https://github.com/ARLY-LC-JUNIOR">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/><img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=gotham"/>
+<div align="center">
+  <a href="https://github.com/ARLY-LC-JUNIOR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
  <div>
 </div>
 <div style="display: inline_block"><br>
@@ -40,6 +44,4 @@
 ##
 <img src="https://i.gifer.com/fyC3.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="GIF hello world perfect loops - animated GIF on GIFER - by Manalis" data-noaft="1" style="width: 322.667px; height: 242px; margin: 0px;">
 
-<div class="crayons-article__cover">
-              <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="1000" height="420" style="background-color:#dddddd;" class="crayons-article__cover__image" alt="Imagem da capa de Hello-World!">
-            </div>
+
