@@ -45,4 +45,3 @@
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=vue-dark&hide_border=falso&border_radius=5.7&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&mode=daily)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=vue-dark&hide_border=falso&border_radius=4.7&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
