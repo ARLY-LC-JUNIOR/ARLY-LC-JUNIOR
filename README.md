@@ -43,4 +43,4 @@
 <a href="https://www.linkedin.com/in/arly-júnior-a2ab49182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a>
 ##
-[![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=vue-dark&hide_border=falso&border_radius=5.7&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=vue-dark&hide_border=falso&border_radius=5.7&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&mode=daily)](https://git.io/streak-stats)
