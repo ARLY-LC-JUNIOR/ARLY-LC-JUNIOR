@@ -22,7 +22,7 @@
 <div align="center">
   <a href="https://github.com/ARLY-LC-JUNIOR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=vue-dark&show&include_all_commits=true&count_private=true"/>
-  <img height="180%em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>
 </div>
 
  <div>
@@ -44,4 +44,3 @@
 </a>
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=vue-dark&hide_border=falso&border_radius=5.7&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&mode=daily)](https://git.io/streak-stats)
-
