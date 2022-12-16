@@ -1,7 +1,7 @@
            
    <div align="center">
-   <h3>​:earth_americas:  Sejam bem vindos ao meu perfil.</h3>
-    <h4> 🎓Formação Acadêmica </h4>
+   <h2>​:earth_americas:  Sejam bem vindos ao meu perfil.</h2>
+    <h3> 🎓Formação Acadêmica </h3>
    <div align="left">
     
    - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
@@ -9,7 +9,7 @@
    - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist - (Dio).
    ##
   <div align="center"> 
-  <h4>👩‍💻 Sobre mim</h4>
+  <h3>👩‍💻 Sobre </h3>
   <div align="left">
    ° :white_check_mark:  Readmes, repositórios e commits, ou seja, os projetos, desafios, aprendizados e compartilhamentos, serão cada vez mais inseridos por aqui, experiências reais vividas e na integra, estou me auto desenvolvendo passo a passo, comprometido com aplicações, boas práticas do aprendizado e multiplicando/retribuindo by Giveback. Em construção "bloco a bloco" "degrau em degrau" meus olhos e mente estarão voltados para a busca de aperfeiçoamento e fomentar Giveback, sempre com respeito ao próximo e aberto a sugestões de vocês Devs Friends.
   <div align="left">
@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>
 </div>
 
- <div>
+<div>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="ARLY-Go" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
