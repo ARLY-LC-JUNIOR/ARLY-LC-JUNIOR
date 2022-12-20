@@ -55,7 +55,7 @@
                               <br /> 
                                       <br />
     
- <div align="left"><h6>"Referências e créditos de estáticas de sequncias streaks-stats e stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" |
+ <div align="left"><h6>"Credito e referência: Dashboards, estáticas de sequencias/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" |
     
     
              
