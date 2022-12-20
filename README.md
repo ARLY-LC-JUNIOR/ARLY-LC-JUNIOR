@@ -49,12 +49,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=blueberry&hide_border=falso&locale=pt-br&mode=weekly)    
 <br />
     <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
- <div align="left"><h6>"Obs: Creditos e referencias das streaks-stats | stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" |
+          <br /> 
+                <br />
+                       <br />
+                              <br /> 
+                                      <br />
+    
+ <div align="left"><h6>"Referências: Mini painel de estatisticas streaks-stats e stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" |
     
     
              
