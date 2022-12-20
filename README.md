@@ -7,7 +7,7 @@
     
 - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
 - :computer: Cursando: Sistemas da Informação - 2° Semestre - FAM (Faculdade das Américas).
-- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist | Power BI. (Dio-Digital Innovation One)
+- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist | Power BI. (Dio - Digital Innovation One)
    ##
   <div align="center"> 
   <h3>👩‍💻 Sobre </h3>
