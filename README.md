@@ -1,18 +1,21 @@
 <div align="center">
+    
+<div align="center">
 <h2>​:earth_americas:  Sejam bem vindos ao meu perfil.</h2>
 <h3> 🎓Formação Acadêmica </h3>
 <div align="left">
     
 - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
 - :computer: Cursando: Sistemas da Informação - 2° Semestre - FAM (Faculdade das Américas).
-- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist - (Dio).
+- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist - (Dio). 
    ##
   <div align="center"> 
   <h3>👩‍💻 Sobre </h3>
   <div align="left">
    :white_check_mark:  Readmes, repositórios e comartilhamentos/commits, os projetos, desafios e aprendizados, serão cada vez mais inseridos por aqui, experiências        reais  na integra. Estou me auto desenvolvendo, comprometido com aplicações de boas práticas, com aprendizado, contribuições e multiplicando/retribuindo by         Giveback, <i>degrau em degrau</i> com olhos e mente voltados para a busca de aperfeiçoamento sempre com respeito ao próximo e aberto a sugestões de vocês Devs Friends.
-   <div align="left">
-   :man_technologist:  Inspirações e aspirações na vertente Back-End.
+        <div align="left">
+   :man_technologist:  Inspirações e aspirações na vertente Back-End. <p>
+            
              
  ##
 <div align="center">
@@ -43,6 +46,9 @@
 <img src="https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 ##
-![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=blueberry&hide_border=falso&locale=pt-br&mode=weekly)
-           
-  
+![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=blueberry&hide_border=falso&locale=pt-br&mode=weekly)    
+    
+    
+    
+    
+             
