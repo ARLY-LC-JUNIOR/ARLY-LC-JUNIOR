@@ -20,6 +20,7 @@
 <p>
 <div align="center">
 <div align="center">
+           
   <a href="https://github.com/ARLY-LC-JUNIOR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&theme=vue-dark&show&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>
@@ -41,7 +42,12 @@
 ##
 <a href = "mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" destino ="_blank">
 <a href="https://www.linkedin.com/in/arly-júnior-a2ab49182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+           </a>
+  <a href="https://github.com/ARLY-LC-JUNIOR">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 ##
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=blueberry&hide_border=falso&locale=pt-br&mode=weekly)](https://git.io/streak-stats)
+           
+  
