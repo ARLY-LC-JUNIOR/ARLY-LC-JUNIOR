@@ -53,9 +53,8 @@
                 <br />
                        <br />
                               <br /> 
-                                      <br />
-    
- <div align="left"><h6>"Credito e referência: Dashboards, estátisticas de sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" |
+                                          
+ <div align="left"><h6>"Credito, referênciasde mini Dashboards, estátisticas de sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" |
     
     
              
