@@ -7,13 +7,14 @@
     
 - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
 - :computer: Cursando: Sistemas da Informação - 3° Semestre | 7° Semestre: Administração de Empresas - FAM .
-- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist | Power BI. (Dio - Digital Innovation One) Estudos e desenvolvimentos focados nas carreiras de Administração e Sistemas da Informação e com isso, unir Tecnologia da Informação à Administração e Negócios, ser um Agente de Mudanças. ( technology business analyst )
+- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist | Power BI. (Dio - Digital Innovation One) 
+ - Estudos e desenvolvimentos focados nas carreiras de Administração e Sistemas da Informação e com isso, unir Tecnologia da Informação à Administração e Negócios, ser um Agente de Mudanças. ( technology business analyst )
 Já percebo um alicerce se consolidando por meio de resultados e pequenas conquistas, sempre com respeito ao próximo, a mente aberta e parcerias com a comunidade TIC e vocês Devs Friends .
    ##
   <div align="center"> 
   <h3>👩‍💻 Sobre </h3>
   <div align="left">
-   :white_check_mark:  Readmes, repositórios e comartilhamentos/commits, os projetos, desafios e aprendizados, serão cada vez mais inseridos por aqui, experiências        reais  na integra. Estou me auto desenvolvendo, comprometido com aplicações de boas práticas, com aprendizado, contribuições e multiplicando/retribuindo by         Giveback, <i>degrau em degrau</i> com olhos e mente voltados para a busca de aperfeiçoamento sempre com respeito ao próximo e aberto a sugestões de vocês Devs Friends.
+   :white_check_mark:  Readmes, repositórios e comartilhamentos/commits, os projetos, desafios e aprendizados, serão cada vez mais inseridos por aqui, experiências        reais  na integra. Comprometido em aplicar as boas práticas no aprendizado, em contribuições e retribuindo by Giveback, <i>degrau em degrau</i> 
         <div align="left">
    :man_technologist:  Inspirações e aspirações na vertente Back-End. 
             
