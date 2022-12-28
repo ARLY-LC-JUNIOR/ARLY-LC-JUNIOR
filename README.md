@@ -8,7 +8,7 @@
 - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
 - :computer: Cursando: Sistemas da Informação - 3° Semestre | 7° Semestre: Administração de Empresas - FAM .
 - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist | Power BI. (Dio - Digital Innovation One) 
- - Estudos e desenvolvimentos focados nas carreiras de Administração e Sistemas da Informação e com isso, fazer uma junção de Tecnologia da Informação à Administração e Negócios, ser um Agente de Transformação e Mudanças. ( technology business analyst )
+ - Estudos e desenvolvimentos focados em Administração e Sistemas da Informação,  ( IT Data Analyst )
 Já percebo um alicerce se consolidando por meio de resultados e pequenas conquistas, sempre com respeito ao próximo, a mente aberta e parcerias com a comunidade TIC e vocês Devs Friends .
    ##
   <div align="center"> 
