@@ -9,7 +9,6 @@
 - :computer: Cursando: Sistemas da Informação - 3° Semestre | 7° Semestre: Administração de Empresas - FAM .
 - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | GO | PHP | SQL Database     Specialist | Power BI. (Dio - Digital Innovation One) 
  - Estudos e desenvolvimentos focados em Administração e Sistemas da Informação,  ( IT Data Analyst )
-
    ##
   <div align="center"> 
   <h3>👩‍💻 Sobre </h3>
