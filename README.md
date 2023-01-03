@@ -13,7 +13,7 @@
   <div align="center"> 
   <h3>👩‍💻 Sobre </h3>
   <div align="left">
-   :white_check_mark:  Readmes, repositórios e comartilhamentos/commits, os projetos, desafios e aprendizados, serão cada vez mais inseridos por aqui, experiências        reais  na integra. Comprometido em aplicar as boas práticas no aprendizado, em contribuições e retribuindo by Giveback, <i>degrau em degrau</i> 
+   :white_check_mark:  Readme, repositórios e compartilhamentos, projetos e commits, desafios e aprendizados, serão cada vez mais inseridos, experiências de projetos reais na integra. Comprometido em aplicar as boas práticas em contribuições retribuindo by Giveback, <i>degrau em degrau</i> 
         <div align="left">
    :man_technologist:  Inspirações e aspirações na vertente Back-End. 
             
