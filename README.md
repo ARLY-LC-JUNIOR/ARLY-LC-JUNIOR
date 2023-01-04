@@ -6,16 +6,18 @@
 <div align="left">
     
 - :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Universidade de São Paulo (Unicid).
-- :computer: Cursando: Sistemas da Informação - 3° Semestre | 7° Semestre: Administração de Empresas - FAM .
+- :computer: Cursando: Sistemas da Informação - 3° Semestre e 
+- ​:man_office_worker: 7° Semestre: Administração de Empresas - FAM .
 - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Database     Experience | Formação SQL Database Specialist | Power BI  - (Dio - Digital Innovation One) 
  - Estudos e desenvolvimentos focados em projetos Tecnologia Sistemas da Informação ( IT Data Analyst ) e BI.  
    ##
   <div align="center"> 
-  <h3>👩‍💻 Sobre </h3>
+  <h3>​:man_technologist:Sobre </h3>
   <div align="left">
-   :white_check_mark:  Readme, repositórios e compartilhamentos, projetos e commits, desafios e aprendizados, serão cada vez mais inseridos, experiências de projetos reais na integra. Comprometido em aplicar as boas práticas em contribuições retribuindo by Giveback, <i>degrau em degrau</i> 
+   :heavy_check_mark:  Readme, repositórios e compartilhamentos, projetos e commits, desafios e aprendizados, serão cada vez mais inseridos, trocas de experiências e de projetos reais na integra. Comprometido em aplicar continuamente as boas práticas em contribuições em TI e retribuindo by Giveback, <i>degrau em degrau.</i> 
         <div align="left">
-   :man_technologist:  Inspirações e aspirações na vertente Back-End. 
+   ​ 🚀 Inspirações e aspirações na vertente Back-End.
+            
             
              
  ##
