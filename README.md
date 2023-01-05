@@ -39,10 +39,10 @@
 <img align="center" alt="ARLY-Csharp" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="ARLY-PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="ARLY-dot-net" height="50" width="50" src="https://icongr.am/devicon/dot-net-original.svg?size=134&color=currentColor">
-<img align="center" alt="ARLY-Js" height="35" width="37"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="ARLY-HTML" height="35" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="ARLY-CSS" height="35" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="ARLY-Ts" height="35" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="ARLY-Js" height="35" width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="ARLY-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="ARLY-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="ARLY-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="37" width="37" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 
 
