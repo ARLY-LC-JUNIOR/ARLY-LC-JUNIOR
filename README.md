@@ -1,4 +1,4 @@
-<div align="center">
+
     
 <div align="center">
 <h2>​:earth_americas:  Sejam bem vindos ao meu perfil.</h2>
@@ -44,7 +44,7 @@
 <img align="center" alt="ARLY-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="ARLY-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="37" width="37" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-
+<img align="center" alt="ARLY-postman" height="35" width="35" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png">
 
 
 
