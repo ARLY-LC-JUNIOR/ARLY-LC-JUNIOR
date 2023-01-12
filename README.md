@@ -25,9 +25,10 @@
 <div align="center">
 <div align="center">
     <div align="center">
-             <a href="https://github.com/ARLY-LC-JUNIOR"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=vue-dark&show&include_all_commits=true&count_private=true"/>
-                 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>
-             
+        <a href="https://github.com/ARLY-LC-JUNIOR">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=vue-dark&show&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>      
+                                      
              
 </div>
 <div>
@@ -46,9 +47,6 @@
 <img align="center" alt="ARLY-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="37" width="37" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 <img align="center" alt="ARLY-postman" height="35" width="35" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png">
-
-
-
 
 
 ##
