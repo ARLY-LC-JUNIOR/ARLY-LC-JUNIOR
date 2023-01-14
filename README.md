@@ -39,7 +39,7 @@
 <img align="center" alt="ARLY-Python" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="ARLY-java" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="ARLY-Csharp" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="ARLY-PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="ARLY-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="ARLY-dot-net" height="50" width="50" src="https://icongr.am/devicon/dot-net-original.svg?size=134&color=currentColor">
 <img align="center" alt="ARLY-Js" height="35" width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ARLY-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -64,7 +64,7 @@
                 <br />
                        <br />
                               <br />                                           
- <div align="left"><h6>"Crédito e referênciasde das mini Dashboards, estátisticas de sequências/streaks-stats para: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" 
+ <div align="left"><h6>"Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" 
      
 
     
