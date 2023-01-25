@@ -16,7 +16,7 @@
   <div align="left">
    :heavy_check_mark:  Aficionado por inovação e Tecnologia, explorador e curioso. O Readme, repositórios, compartilhamentos, projetos e commits, desafios e aprendizados, serão cada vez mais inseridos. As trocas de experiências e de projetos reais na integra. Comprometido em aplicar continuamente as boas práticas  retribuindo by Giveback, <i>degrau em degrau.</i> 
         <div align="left">
-   ​ 🚀 Inspirações e aspirações na vertente Back-End e ser um agende transformador e de mudanças para o nosso ecosistema, nossa sociedade, nas empresas. 
+   ​ 🚀 Inspirações e aspirações na vertente Back-End e ser um agente de mudanças e transformador do nosso ecosistema, nossa sociedade, nas empresas. 
             
             
              
