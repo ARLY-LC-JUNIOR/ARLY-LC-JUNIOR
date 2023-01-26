@@ -9,7 +9,7 @@
 - :computer: Cursando: Sistemas da Informação - 3° Semestre - FAM.
 - ​:man_office_worker:  7° Semestre: Administração de Empresas - FAM.
 - :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Database     Experience | Formação SQL Database Specialist | Power BI  - (Dio - Digital Innovation One) 
- - Estudos e desenvolvimentos focados em projetos Tecnologia Sistemas da Informação ( IT Data Analyst ) e BI.  
+ - Estudos e desenvolvimentos focados em projetos Tecnologia Sistemas da Informação ( IT Analyst ) e BI.  
    ##
   <div align="center"> 
   <h3>​:man_technologist:Sobre </h3>
