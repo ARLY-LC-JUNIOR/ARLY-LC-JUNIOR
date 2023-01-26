@@ -1,5 +1,4 @@
-
-    
+   
 <div align="center">
 <h2>​:earth_americas:  Sejam bem vindos ao meu perfil.</h2>
 <h3> 🎓Formação Acadêmica </h3>
@@ -39,6 +38,7 @@
 <img align="center" alt="ARLY-Python" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="ARLY-java" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="ARLY-Csharp" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="ARLY-rust" height="50" width="50" src="https://user-images.githubusercontent.com/106846090/214765761-e49c8fd0-1f7d-4b15-a804-2ef7ea4c890a.png">
 <img align="center" alt="ARLY-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="ARLY-dot-net" height="50" width="50" src="https://icongr.am/devicon/dot-net-original.svg?size=134&color=currentColor">
 <img align="center" alt="ARLY-Js" height="35" width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -46,8 +46,7 @@
 <img align="center" alt="ARLY-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="ARLY-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="37" width="37" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-<img align="center" alt="ARLY-postman" height="35" width="35" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png">
-<img align="center" alt="ARLY-rust" height="50" width="50" src="https://user-images.githubusercontent.com/106846090/214765761-e49c8fd0-1f7d-4b15-a804-2ef7ea4c890a.png">    
+<img align="center" alt="ARLY-postman" height="35" width="35" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"> 
   
 
 ##
