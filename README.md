@@ -47,7 +47,8 @@
 <img align="center" alt="ARLY-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="37" width="37" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 <img align="center" alt="ARLY-postman" height="35" width="35" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png">
-
+<img align="center" alt="ARLY-rust" height="47" width="47" src="https://user-images.githubusercontent.com/106846090/214765761-e49c8fd0-1f7d-4b15-a804-2ef7ea4c890a.png">    
+  
 
 ##
 <a href = "mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" destino ="_blank">
