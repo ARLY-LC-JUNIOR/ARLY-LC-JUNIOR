@@ -4,18 +4,21 @@
 <h3> 🎓Formação Acadêmica </h3>
 <div align="left">
     
-- :chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Unicid.
-- :computer: Cursando: Sistemas da Informação - 3° Semestre - FAM.
-- ​:man_office_worker:  7° Semestre: Administração de Empresas - FAM.
-- :desktop_computer: Cursando Bootcamps/Cursos extracurriculures: Skill Back-End Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Database     Experience | Formação SQL Database Specialist | Power BI  - (Dio - Digital Innovation One) 
- - Estudos e desenvolvimentos focados em projetos Tecnologia Sistemas da Informação ( IT Analyst ) e BI.  
+- ​:chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Unicid
+- ​:computer: Cursando: 3° Semestre em Sistemas da Informação - FAM
+- ​:man_office_worker: Cursando: 7° Semestre em Administração de Empresas - FAM
+- :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | 
+   Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). *Estudos e desenvolvimentos focados em desenvolvimentos de projetos, solo e em parcerias, Tecnologia, Sistemas da Informação, Database*  
+
    ##
   <div align="center"> 
   <h3>​:man_technologist:Sobre </h3>
   <div align="left">
-   :heavy_check_mark:  Aficionado por inovação e Tecnologia, explorador e curioso. O Readme, repositórios, compartilhamentos, projetos e commits, desafios e aprendizados, serão cada vez mais inseridos. As trocas de experiências e de projetos reais na integra. Comprometido em aplicar continuamente as boas práticas  retribuindo by Giveback, <i>degrau em degrau.</i> 
-        <div align="left">
-   ​ 🚀 Inspirações e aspirações na vertente Back-End e ser um agente transformador e de mudanças do nosso ecossistema, nossa sociedade e nas empresas, por meio da ética e respeito ao próximo. . 
+     :eight_spoked_asterisk: Back-End Skills: Disponivel para o mercado de trabalho, para compor equipes Devs da sua empresa, seu negócio ou seu projeto.
+     <div align="left">   
+     :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas retribuindo by Giveback. 
+   :rocket:Inspirações e aspirações na vertente Back-End e ser um agente transformador e de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo.
+           
             
             
              
