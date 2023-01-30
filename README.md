@@ -19,7 +19,7 @@
         <div align="left">
    :rocket:Inspirações e aspirações na vertente Back-End e ser um agente transformador e de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo.
             <div align="left"> 
-            :eight_spoked_asterisk: Back-End Skills life long learning. Disponivel para compor times de Tecnologia equipes/squad Devs da sua empresa, seu negócio ou seu projeto.
+            :eight_spoked_asterisk: Dev with Back-End and Database Skills. 
            
             
             
