@@ -14,10 +14,12 @@
   <div align="center"> 
   <h3>​:man_technologist:Sobre </h3>
   <div align="left">
-     :eight_spoked_asterisk: Back-End Skills: Disponivel para o mercado de trabalho, para compor equipes Devs da sua empresa, seu negócio ou seu projeto.
-     <div align="left">   
+         <div align="left">   
      :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas retribuindo by Giveback. 
+        <div align="left">
    :rocket:Inspirações e aspirações na vertente Back-End e ser um agente transformador e de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo.
+            <div align="left"> 
+            :eight_spoked_asterisk: Back-End Skills life long learning. Disponivel para compor times de Tecnologia equipes/squad Devs da sua empresa, seu negócio ou seu projeto.
            
             
             
