@@ -11,6 +11,8 @@
    Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos, solo e em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Database.   
 
    ##
+  
+
   <div align="center"> 
   <h3>​:man_technologist:Sobre </h3>
   <div align="left">
@@ -39,12 +41,14 @@
 </div>
         </div>
 <div style="display: inline_block"><br>
+   
 <img align="center" alt="ARLY-Go" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img align="center" alt="ARLY-Python" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="ARLY-java" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="ARLY-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="ARLY-java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="ARLY-Csharp" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="ARLY-rust" height="42" width="42" src="https://user-images.githubusercontent.com/106846090/214765761-e49c8fd0-1f7d-4b15-a804-2ef7ea4c890a.png">
-<img align="center" alt="ARLY-PHP" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="ARLY-PHP" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="ARLY-R" height="30" width="30" src="https://user-images.githubusercontent.com/106846090/216590859-bb28ce03-4db2-4884-9ae7-24f8b6356c56.jpg">
 <img align="center" alt="ARLY-dot-net" height="42" width="42" src="https://icongr.am/devicon/dot-net-original.svg?size=134&color=currentColor">
 <img align="center" alt="ARLY-Js" height="32" width="32"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ARLY-HTML" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -52,6 +56,9 @@
 <img align="center" alt="ARLY-Ts" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="32" width="32" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 <img align="center" alt="ARLY-postman" height="32" width="32" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"> 
+    
+   
+    
   
 
 ##
