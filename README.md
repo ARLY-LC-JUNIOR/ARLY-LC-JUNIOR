@@ -24,7 +24,6 @@
             :eight_spoked_asterisk: Dev with Back-End and Database Skills. 
            
             
-            
              
  ##
 <div align="center">
@@ -32,8 +31,8 @@
 <div align="center">
     <div align="center">
         <a href="https://github.com/ARLY-LC-JUNIOR">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=vue-dark&show&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=7&theme=vue-dark&show"/>                     
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=10&theme=react"/>                     
          
   
     
@@ -70,7 +69,7 @@
 <img src="https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 ##
-![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=blueberry&hide_border=falso&locale=pt-br&mode=weekly)    
+![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=react&hide_border=falso&locale=pt-br&mode=weekly)    
 <br />
     <br />
           <br /> 
