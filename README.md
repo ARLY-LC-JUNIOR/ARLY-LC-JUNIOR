@@ -49,8 +49,7 @@
     <img align="center" alt="ARLY-Rust" height="31" width="31" src="https://user-images.githubusercontent.com/106846090/216805702-f36542bf-c248-49e6-8467-845d8f80e8b6.png">
 <img align="center" alt="ARLY-Csharp" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="ARLY-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="ARLY-dot-net" height="42" width="42" src="https://icongr.am/devicon/dot-net-original.svg?size=134&color=currentColor">
-<img align="center" alt="ARLY-Js" height="31" width="31"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ARLY-Js" height="31" width="31"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ARLY-HTML" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="ARLY-CSS" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="ARLY-Ts" height="31" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
