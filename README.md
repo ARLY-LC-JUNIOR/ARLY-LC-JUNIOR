@@ -8,7 +8,8 @@
 - ​:computer: Cursando: 3° Semestre em Sistemas da Informação - FAM
 - ​:man_office_worker: Cursando: 7° Semestre em Administração de Empresas - FAM
 - :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | 
-   Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.   
+-  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
+   - Aprendizagem e melhoria contínua.
 
    ##
   
@@ -19,7 +20,7 @@
          <div align="left">   
      :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas retribuindo by Giveback. 
         <div align="left">
-   :rocket:Inspirações e aspirações nas vertentes Back-End e ser um agente transformador de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo. Aprendizagem e melhoria contínua.
+   :rocket:Inspirações e aspirações nas vertentes Back-End e ser um agente transformador de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo. 
             <div align="left"> 
             :eight_spoked_asterisk: Dev with Back-End and Database Skills. 
            
