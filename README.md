@@ -7,7 +7,7 @@
 - ​:chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Unicid
 - ​:computer: Cursando: 3° Semestre em Sistemas da Informação - FAM
 - ​:man_office_worker: Cursando: 7° Semestre em Administração de Empresas - FAM
-- :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | 
+- :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
 -  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
    - Aprendizagem e melhoria contínua.
 
