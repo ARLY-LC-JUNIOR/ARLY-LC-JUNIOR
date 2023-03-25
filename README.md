@@ -4,7 +4,7 @@
 <h3> 🎓Formação Acadêmica </h3>
 <div align="left">
     
-- ​:chart_with_upwards_trend: Gestão Financeira - Concluido 2018 - Unicid
+- ​:chart_with_upwards_trend: Formação Gestão Comercial - Concluido 2018 - Unicid
 - ​:computer: Cursando: 3° Semestre em Sistemas da Informação - FAM
 - ​:man_office_worker: Cursando: 7° Semestre em Administração de Empresas - FAM
 - :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
