@@ -18,7 +18,9 @@
   <h3>​:man_technologist:Sobre </h3>
   <div align="left">
          <div align="left">   
-     :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas retribuindo by Giveback. 
+     :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas retribuindo by Giveback.
+            <div align="left">
+   👨‍💻 A proposta do meu GitHub, irão ver e acompanhar projetos, desafios, conclusões de projetos e desafios, parcerias, muitos aprendizados e compartilhamentos etc etc.  
         <div align="left">
    :rocket:Inspirações e aspirações nas vertentes Back-End e ser um agente transformador de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo. 
             <div align="left"> 
