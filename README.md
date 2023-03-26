@@ -34,9 +34,7 @@
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=12&theme=react"/>                  
          
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)
-
-    
+     
 </div>
 <div>
 </div>
@@ -56,6 +54,10 @@
 <img align="center" alt="ARLY-Ts" height="31" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="31" width="31" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 <img align="center" alt="ARLY-postman" height="32" width="32" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"> 
+ 
+ ##
+   
+ ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)
     
    
     
