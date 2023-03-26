@@ -1,6 +1,6 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=header"/><div align="center">
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39535b&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+Welcome+To+My+Profile+ArlyJúnior+;I+am+from+São+Paulo,+SP;I+study+Information+Systems+at+FAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<h2>​:earth_americas:  Sejam bem vindos ao meu perfil.</h2>
+<h2>​:earth_americas:  Bem vindos ao meu perfil.</h2>
 <h3> 🎓Formação Acadêmica </h3>
 <div align="left">   
     
