@@ -37,7 +37,8 @@
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=12&theme=react"/>                     
          
-  
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react&show)
+
     
 </div>
 <div>
