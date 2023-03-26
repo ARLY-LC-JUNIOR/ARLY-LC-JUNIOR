@@ -3,17 +3,14 @@
 <h2>​:earth_americas:  Bem vindos ao meu perfil.</h2>
 <h3> 🎓Formação Acadêmica </h3>
 <div align="left">   
-    
-- ​:chart_with_upwards_trend: Formação Gestão Comercial - Concluido 2018 - Unicid
-- ​:computer: Cursando: 3° Semestre em Sistemas da Informação - FAM
-- ​:man_office_worker: Cursando: 7° Semestre em Administração de Empresas - FAM
-- :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
--  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
+ ​:computer: Cursando: 3° Semestre em Sistemas da Informação e
+ ​:man_office_worker: 7° Semestre em Administração de Empresas - FAM
+ :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
+ Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
    - Orientado a metodologias ágeis, aprendizagem e melhoria contínua.
-
+   
    ##
   
-
   <div align="center"> 
   <h3>​:man_technologist:Sobre </h3>
   <div align="left">
@@ -35,9 +32,9 @@
     <div align="center">
         <a href="https://github.com/ARLY-LC-JUNIOR">
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=12&theme=react"/>                     
+  <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=12&theme=react"/>                  
          
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react&show)
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)
 
     
 </div>
@@ -77,9 +74,8 @@
     <br />
           <br /> 
                 <br />
-                       <br />
-                              <br />                                           
- <div align="left"><h6>"Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" 
+                       <br />                                                                      
+ <div align="center"><h6>"Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" 
      
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=footer"/>
     
