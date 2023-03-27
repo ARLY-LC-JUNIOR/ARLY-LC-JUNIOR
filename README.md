@@ -15,14 +15,14 @@
   <h3>​:man_technologist:Sobre </h3>
   <div align="left">
          <div align="left">   
-     :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas retribuindo by Giveback.
+     :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas, aqui voces encontrarão projetos iniciados em parcerias e solo, desenrolando os desafios e retribuindo by Giveback.
             <div align="left">
    👨‍💻 A proposta do meu GitHub, irão ver e acompanhar projetos, desafios, conclusões de projetos e desafios, parcerias, muitos aprendizados e compartilhamentos etc etc.  
         <div align="left">
    :rocket:Inspirações e aspirações nas vertentes Back-End e ser um agente transformador de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo. 
             <div align="left"> 
             :eight_spoked_asterisk: Dev with Back-End and Database Skills. 
-           
+         
             
              
  ##
@@ -55,14 +55,9 @@
 <img align="center" alt="ARLY-Git" height="31" width="31" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 <img align="center" alt="ARLY-postman" height="32" width="32" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"> 
  
- ##
-   
- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)
-    
-   
-    
+ ##   
+ ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)    
   
-
 ##
 <a href = "mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" destino ="_blank">
 <a href="https://www.linkedin.com/in/arly-júnior-a2ab49182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
