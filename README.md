@@ -3,9 +3,9 @@
 <h2>​:earth_americas:  Seja bem vindo.</h2>
 <h3> 🎓Formação Acadêmica </h3>
 <div align="left">   
- ​:computer: Cursando: 3° Semestre em Sistemas da Informação
+ ​:computer: Cursando: 4° Semestre em Sistemas da Informação
    
-​:man_office_worker: Cursando: 7° Semestre em Administração de Empresas - FAM</div>
+​:man_office_worker: Cursando: 8° Semestre em Administração de Empresas - FAM</div>
  </div>
  :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
