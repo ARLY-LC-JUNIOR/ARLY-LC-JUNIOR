@@ -5,16 +5,16 @@
 <div align="left">   
  ​:computer: Cursando: 4° Semestre em Sistemas da Informação
    
-​:man_office_worker: Cursando: 8° Semestre em Administração de Empresas - FAM</div>
+​👨‍💼 Cursando: 8° Semestre em Administração de Empresas - FAM</div>
  </div>
- :desktop_computer: Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
+ 🖥️ Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
    - Orientado a metodologias ágeis, aprendizagem e melhoria contínua.
    
    ##
   
   <div align="center"> 
-  <h3>​👨‍💻 Sobre </h3>
+  <h3>​👨‍💻  Sobre </h3>
   <div align="left">
          <div align="left">   
      :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas, aqui voces encontrarão projetos iniciados em parcerias e solo, desenrolando os desafios e retribuindo by Giveback.
