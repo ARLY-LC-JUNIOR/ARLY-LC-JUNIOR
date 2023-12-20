@@ -3,11 +3,11 @@
 <h2>​ 🌎 Sejam bem vindos.</h2>
 <h3> 🎓 Formação Acadêmica </h3>
 <div align="left">   
- ​:computer: Cursando: 4° Semestre em Sistemas da Informação
+🖥️ Cursando: 4° Semestre em Sistemas da Informação
    
-​👨‍💼 Cursando: 8° Semestre em Administração de Empresas - FAM</div>
+​👨‍💼 Cursando:  8° Semestre em Administração de Empresas - FAM</div>
  </div>
- 🖥️ Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
+💻 Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
    - Orientado a metodologias ágeis, aprendizagem e melhoria contínua.
    
