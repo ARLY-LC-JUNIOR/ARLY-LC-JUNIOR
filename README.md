@@ -5,7 +5,7 @@
 <div align="left">   
 🖥️ Cursando: 4° Semestre em Sistemas da Informação
    
-​👨‍💼 Cursando:  Bacharel em Administração - 12/23 FAM</div>
+​👨‍💼 Bacharel: Administração - 12/23 FAM</div>
  </div>
 💻 Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
  Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
