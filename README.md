@@ -3,7 +3,7 @@
 <h2>​ 🌎 Sejam bem vindos.</h2>
 <h3> 🎓 Formação Acadêmica </h3>
 <div align="left">   
-🖥️ Cursando: 4° Semestre em Sistemas da Informação
+🖥️ Cursando: 5° Semestre em Sistemas de Informação
    
 ​👨‍💼 Bacharel: Administração - 12/23 FAM</div>
  </div>
