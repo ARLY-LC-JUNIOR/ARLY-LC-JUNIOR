@@ -56,7 +56,9 @@
 <img align="center" alt="ARLY-Ts" height="31" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="ARLY-Git" height="31" width="31" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 <img align="center" alt="ARLY-postman" height="32" width="32" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"> 
- 
+<img align="center" alt="ARLY-SAS" height="60" width="65" src="https://github.com/ARLY-LC-JUNIOR/rotina-aprendizado-data-SAS/assets/106846090/777d33f3-2991-4db7-877e-a64686755692.png">
+
+
  ##   
  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)    
   
