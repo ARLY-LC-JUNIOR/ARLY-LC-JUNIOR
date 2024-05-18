@@ -7,8 +7,8 @@
    
 ​👨‍💼 Bacharel: Administração - 12/2023 FAM</div>
  </div>
-💻 Cursos extracurriculures/Bootcamps: Python Developer | JAVA/Spring | JavaScript | .Net/C# | SQL | GO | PHP | Ruby | Scrum
- Database Experience | Formação SQL Database Specialist | CI/CD com GitLab | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
+💻 Cursos extracurriculures/Bootcamps: Python | BD MySQL | R | SQL | SAS | JAVA/Spring | GO | PHP | Ruby | Scrum. 
+ Database Experience | Formação SQL Database Specialist | Power BI  - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
    - Orientado a metodologias ágeis, aprendizagem e melhoria contínua.
    
    ##
