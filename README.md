@@ -1,5 +1,5 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=header"/><div align="center">
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39535b&size=30&center=true&vCenter=true&width=1000&lines=HELLO!,+Welcome+Arly_Júnior+profile;I+am+from+São+Paulo,+SP;I+study+Technology;+Information+System;+and;+Important+programming+language+Backend+courses!;+Be+Welcome!+:%29)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39535b&size=30&center=true&vCenter=true&width=1000&lines=HELLO!,+Welcome+Arly_Júnior+profile;I+am+from+São+Paulo,+SP;I+study+Technology;+Computer+Science;+and;+Important+programming+language+Backend+courses!;+Be+Welcome!+:%29)
 <h2>​ 🌎 Sejam bem vindos.</h2>
 <h3> 🎓 Formação Acadêmica </h3>
 <div align="left">   
