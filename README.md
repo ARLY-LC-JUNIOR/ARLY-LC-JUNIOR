@@ -24,10 +24,10 @@
  </div>
    <div>
    <div align="center"> 
-   👨‍💻 Sobre </h3> 
+    👨‍💻 Sobre </h3> 
   <div align="left">
    <div align="left">   
-    👨‍💼 Explorador nato, apaixonado por inovação e tecnologias, comprometido em aplicar continuamente as boas práticas, aqui voces encontrarão projetos iniciados em parcerias e solo, desenrolando os desafios e retribuindo by Giveback.
+    👨‍💼 Explorador nato, apaixonado por inovação e tecnologias, comprometido em aplicar continuamente as boas práticas. Em meu perfil voces encontrarão projetos iniciados em parcerias e solo, desvendado desafios e retribuindo by Giveback.
             <div align="left">
     🤝 A proposta do perfil GitHub, é acompanhar projetos, desafios, iniciar e concluir projetos e desafios, parcerias, muitos aprendizados e compartilhamentos. E ganhar visibilidade para ter oportunidades de trabalho na área. 
         <div align="left">
@@ -40,12 +40,12 @@
             
              
  ##
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<a href="https://github.com/ARLY-LC-JUNIOR">
-<img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
+ <div align="center">
+   <div align="center">
+     <div align="center">
+       <div align="center">
+           <a href="https://github.com/ARLY-LC-JUNIOR">
+             <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=12&theme=react"/>                  
          
      
