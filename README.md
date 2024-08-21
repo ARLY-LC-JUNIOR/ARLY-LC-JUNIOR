@@ -17,7 +17,7 @@
    ##
   
   <div align="center"> 
-  <h3> Aficionado pelo universo de Dados e Analise no mundo dos negócios. </div>
+  <h3> ⚡ Aficionado pelo universo de Análise de Dados no mundo dos negócios. </div>
      <div>
          <div align="center"> 
      ​👨‍💻 Sobre </h3> 
