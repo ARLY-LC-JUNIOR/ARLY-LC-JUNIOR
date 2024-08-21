@@ -58,7 +58,7 @@
 
    
  ##  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARLY-LC-JUNIOR&bg_color=ffffff&color=836363&line=8fb4c1&point=9baa64&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARLY-LC-JUNIOR&bg_color=ffffff&color=836363&line=7ba7b7&point=a0ad71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 ##
 <a href = "mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" destino ="_blank">
