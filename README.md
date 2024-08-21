@@ -19,7 +19,7 @@
          <div align="left">   
      :zap:  Explorador nato, apaixonado por inovação e tecnologias, comprometido em aplicar continuamente as boas práticas, aqui voces encontrarão projetos iniciados em parcerias e solo, desenrolando os desafios e retribuindo by Giveback.
             <div align="left">
-   👨‍💻 A proposta do meu GitHub, irão ver e acompanhar projetos, desafios, conclusões de projetos e desafios, parcerias, muitos aprendizados e compartilhamentos etc etc.  
+   👨‍💻 A proposta do perfil GitHub, é acompanhar projetos, desafios, iniciar e concluir projetos e desafios, parcerias, muitos aprendizados e compartilhamentos. E ganhar visibilidade para ter oportunidades de trabalho na área. 
         <div align="left">
    :rocket:Inspirações e aspirações nas vertentes Back-End e ser um agente transformador de mudanças do nosso ecossistema, em nossa sociedade e nas empresas, por meio da ética e respeito ao próximo.! 
             <div align="left"> 
