@@ -2,9 +2,9 @@
    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39535b&size=30&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome,+I'm+Arly_Júnior+;I+am+from+São+Paulo,+Brazil;I+study+Technology;+Computer+Science;+and;+Important+courses+in;+Backend+programming+language+and+Database!;+Be+Welcome!+:%29)
 <h2>​ 🌎 Sejam bem vindos.</h2>
 <h3> 🎓 Formação Acadêmica </h3>
-<div align="left">   
-🖥️ Cursando: Ciências da Computação - FAM
+<div align="left">
    
+🖥️ Cursando: Ciências da Computação - FAM   
 ​👨‍💼 Bacharel: Administração - 12/2023 FAM</div>
  </div>
 💻 Cursos extracurriculures e aprendizados -> Skills: Language Python | Database Experience | SQL - SAS - SPSS - | PowerBI | MySQL | R | JAVA | GO | Rust | Ruby and Scrum. 
@@ -17,7 +17,7 @@
   <h3>​👨‍💻  Sobre </h3>
   <div align="left">
          <div align="left">   
-     :zap:  Explorador aficionado por inovação e Tecnologia, comprometido em aplicar continuamente as boas práticas, aqui voces encontrarão projetos iniciados em parcerias e solo, desenrolando os desafios e retribuindo by Giveback.
+     :zap:  Explorador nato, apaixonado por inovação e tecnologias, comprometido em aplicar continuamente as boas práticas, aqui voces encontrarão projetos iniciados em parcerias e solo, desenrolando os desafios e retribuindo by Giveback.
             <div align="left">
    👨‍💻 A proposta do meu GitHub, irão ver e acompanhar projetos, desafios, conclusões de projetos e desafios, parcerias, muitos aprendizados e compartilhamentos etc etc.  
         <div align="left">
@@ -43,7 +43,7 @@
         </div>
 <div style="display: inline_block"><br>
    
-<img align="center" alt="ARLY-Python" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="ARLY-Python" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="ARLY-Go" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="ARLY-R" height="35" width="35" src="https://user-images.githubusercontent.com/106846090/216590859-bb28ce03-4db2-4884-9ae7-24f8b6356c56.jpg"/>
   <img align="center" alt="ARLY-SQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
@@ -54,12 +54,11 @@
       <img align="center" alt="ARLY-Csharp" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="ARLY-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img align="center" alt="ARLY-Git" height="42" width="42" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
- <img align="center" alt="ARLY-postman" height="40" width="40" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"/> 
+ <img align="center" alt="ARLY-postman" height="40" width="40" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"/>
+    
+ 
 
-   
- ##  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARLY-LC-JUNIOR&bg_color=ffffff&color=836363&line=7ba7b7&point=a0ad71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
+  ## 
 ##
 <a href = "mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" destino ="_blank">
 <a href="https://www.linkedin.com/in/arly-júnior-a2ab49182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -72,7 +71,8 @@
     <br />
           <br /> 
                 <br />                                                                                     
- <div align="center"><h6>"Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" 
+ <div align="center"><h6> Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1 
+    
      
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=footer"/>
     
