@@ -7,9 +7,9 @@
    
 ​👨‍💼 Bacharel: Administração - 12/2023 FAM</div>
  </div>
-💻 Cursos extracurriculures/Bootcamps: Skills: Language Python | Database Experience | SGBD - Query (SQL) - SAS - SPSS - Database | PowerBI | MySQL | R | JAVA | GO | PHP | Rust | Scrum. 
-   - (Digital Innovation One). Estudos focados em desenvolvimentos de projetos,  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
-   - Orientado a BD, metodologias ágeis com aprendizagem e melhoria contínua.
+💻 Cursos extracurriculures e aprendizados -> Skills: Language Python | Database Experience | SQL - SAS - SPSS - | PowerBI | MySQL | R | JAVA | GO | Rust | Ruby and Scrum. 
+   - Estudos focados em desenvolvimentos de projetos, individuais e  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
+   - Orientado ao universo de dados com aprendizagem e melhoria contínua.
    
    ##
   
