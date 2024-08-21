@@ -18,7 +18,10 @@
    ##
   
   <div align="center"> 
-  <h3> ⚡ Aficionado pelo universo de Análise de Dados no mundo dos negócios. </div>
+<h3>⚡ Aficionado por tecnologia, dados e análises, focado em impulsionar e promover a inovação no mundo dos negócios. <h3>
+
+
+ </div>
    <div>
    <div align="center"> 
    👨‍💻 Sobre </h3> 
