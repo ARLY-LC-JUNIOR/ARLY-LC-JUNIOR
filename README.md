@@ -43,35 +43,35 @@
         </div>
 <div style="display: inline_block"><br>
    
-<img align="center" alt="ARLY-Python" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="ARLY-Go" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-       <img align="center" alt="ARLY-R" height="30" width="30" src="https://user-images.githubusercontent.com/106846090/216590859-bb28ce03-4db2-4884-9ae7-24f8b6356c56.jpg">
-   <img align="center" alt="ARLY-java" height="40" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="ARLY-Rust" height="31" width="31" src="https://user-images.githubusercontent.com/106846090/216805702-f36542bf-c248-49e6-8467-845d8f80e8b6.png">
-<img align="center" alt="ARLY-Csharp" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="ARLY-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="ARLY-Git" height="31" width="31" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-<img align="center" alt="ARLY-postman" height="32" width="32" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"> 
-<img align="center" alt="ARLY-SAS" height="60" width="65" src="https://github.com/ARLY-LC-JUNIOR/rotina-aprendizado-data-SAS/assets/106846090/777d33f3-2991-4db7-877e-a64686755692.png">
+<img align="center" alt="ARLY-Python" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="ARLY-Go" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="ARLY-R" height="37" width="37" src="https://user-images.githubusercontent.com/106846090/216590859-bb28ce03-4db2-4884-9ae7-24f8b6356c56.jpg"/>
+  <img align="center" alt="ARLY-SQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img align="center" alt="ARLY-SQLServer" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="center" alt="ARLY-SAS" height="65" width="65" src="https://github.com/ARLY-LC-JUNIOR/rotina-aprendizado-data-SAS/assets/106846090/777d33f3-2991-4db7-877e-a64686755692.png"/>
+    <img align="center" alt="ARLY-java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+     <img align="center" alt="ARLY-Rust" height="40" width="40" src="https://user-images.githubusercontent.com/106846090/216805702-f36542bf-c248-49e6-8467-845d8f80e8b6.png"/>
+      <img align="center" alt="ARLY-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="ARLY-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  <img align="center" alt="ARLY-Git" height="42" width="42" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
+ <img align="center" alt="ARLY-postman" height="40" width="40" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"/> 
 
-
- ##   
- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARLY-LC-JUNIOR&theme=react)    
-  
+   
+ ##  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARLY-LC-JUNIOR&bg_color=ffffff&color=836363&line=8fb4c1&point=9baa64&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
 ##
 <a href = "mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" destino ="_blank">
-<a href="https://www.linkedin.com/in/arly-júnior-a2ab49182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/arly-júnior-a2ab49182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 </a>
-<a href="https://github.com/ARLY-LC-JUNIOR">
-<img src="https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://github.com/ARLY-LC-JUNIOR"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 ##
 ![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=react&hide_border=falso&locale=pt-br&mode=weekly)    
 <br />
     <br />
           <br /> 
-                <br />
-                       <br />                                                                      
+                <br />                                                                                     
  <div align="center"><h6>"Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1" 
      
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=footer"/>
