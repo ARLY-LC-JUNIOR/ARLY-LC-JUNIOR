@@ -11,7 +11,7 @@
  <div>
 🔭 Atualmente estou disponível e em busca de oportunidades de trabalho. </div>
 <div>
-💻 Cursos extracurriculures e aprendizados -> Skills: Language Python | Database Experience | SQL - R - Python - SAS - SPSS - | PowerBI | MySQL | Rust and Scrum. 
+💻 Cursos extracurriculures e aprendizados -> Skills: Language Python | Database Experience | SQL - R - Python - SAS - SPSS - | PowerBI | MySQL | GO | Ruby | Java/Spring | SQL in, SQL Server, MySQL | SAS | Rust and Scrum. 
    - Estudos focados em desenvolvimentos de projetos, individuais e  em parcerias, oportunidades de trabalho em Tecnologia, Sistemas da Informação, Negócios em TI e Database.
    - Orientado ao universo de dados com aprendizagem e melhoria contínua.
    
