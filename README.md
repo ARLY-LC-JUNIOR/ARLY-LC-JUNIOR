@@ -18,7 +18,7 @@
    ##
   
   <div align="center"> 
-<h3>⚡ Aficionado por tecnologia, dados e análises, focado em impulsionar e promover a inovação no mundo dos negócios. <h3>
+<h3>⚡ Mente aberta para tecnologia, analise de dados e focado em impulsionar e promover a inovação no mundo dos negócios. <h3>
 
 
  </div>
@@ -78,13 +78,9 @@
     <a href="https://github.com/ARLY-LC-JUNIOR"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=holi-theme&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)   
-<br />
-    <br />
-          <br /> 
-                <br />         
-                        [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARLY-LC-JUNIOR&theme=green)](https://github.com/ashutosh00710/github-readme-activity-graph)                            
+          <br />[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARLY-LC-JUNIOR&theme=green)](https://github.com/ashutosh00710/github-readme-activity-graph)                            
           
- <div align="center"><h6> Crédito e referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1 
+ <div align="center"><h6> Referências das mini Dashboards e estátisticas sequências/streaks-stats: @anuraghazra | @rafaballerin | @NevilleMthw | @DenverCoder1 
     
      
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=footer"/>
