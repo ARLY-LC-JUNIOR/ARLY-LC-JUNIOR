@@ -9,9 +9,11 @@
 
 <div align="left">
    
-- **🎓 Cursando:** **Ciências da Computação**  
+- **🎓 Graduando:** Ciências da Computação.
+- **🎓 Cursando:** Pós Graduação em
+Estatística Aplicada 
 - **👨‍💼 Bacharel:** **Administração** - Conclusão em 12/2023  
-- **🔭 Atualmente:** Estou disponível e em busca de **oportunidades de trabalho**  
+- **🔭 Atualmente:** Estou disponível e em busca de oportunidades de trabalho projetos.
 
 - ## **💡 Cursos extracurriculares e aprendizados:**  
   - **Skills:**  
