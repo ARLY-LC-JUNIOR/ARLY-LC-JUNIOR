@@ -16,7 +16,7 @@ Estatística Aplicada
 - **🔭 Atualmente:** Estou disponível e em busca de oportunidades de trabalho projetos.
 
 - ## **💡 Cursos extracurriculares e aprendizados:**  
-  - **Skills:**  
+  - ##**Skills:**  
     - **🐍 Python**  
     - **🗃️ Database Experience**  
     - **📊 SQL, R, SAS, SPSS**  
