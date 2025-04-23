@@ -13,7 +13,7 @@
 - **🎓 Cursando:** Pós Graduação em
 Estatística Aplicada 
 - **👨‍💼 Bacharel:** **Administração** - Conclusão em 12/2023  
-- **🔭 Atualmente:** Estou disponível e em busca de oportunidades de trabalho projetos.
+- **🔭 Atualmente:** No modo, Data Driven, excelência tática e operacional em suprimentos, Governança e Analytics. 
 
 - ## **💡 Cursos extracurriculares e aprendizados:**  
   - ## **Skills:**  
@@ -21,7 +21,9 @@ Estatística Aplicada
     - **🗃️ Database Experience**  
     - **📊 SQL, R, SAS, SPSS**  
     - **📈 PowerBI**  
-    - **🐬 MySQL**  
+    - **🐬 MySQL | SQL $ERVER**
+    - **DBeaver**
+    - **Azure Devops**
     - **🐹 GO**  
     - **💎 Ruby**  
     - **☕ Java/Spring**  
