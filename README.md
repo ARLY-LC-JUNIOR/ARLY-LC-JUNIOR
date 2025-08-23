@@ -64,11 +64,23 @@ Estatística Aplicada
 
 ##
 
+<h3 align="center">📊 Estatísticas & Linguagens</h3>
+
 <div align="center">
-  <a href="https://github.com/ARLY-LC-JUNIOR">
-    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARLY-LC-JUNIOR&hide=contribs&show_icons=true&theme=react&show&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=20&theme=react"/>
-  </a>
+  <!-- Stats (Tokyonight) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ARLY-LC-JUNIOR&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    height="120"
+  />
+  <!-- Top Langs (compact, 8 linguagens) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARLY-LC-JUNIOR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    height="120"
+  />
+</div>
+
+ ##
+</div>
 </div>
 
 <div align="center" style="display: inline_block">
@@ -87,8 +99,8 @@ Estatística Aplicada
   <img align="center" alt="ARLY-postman" height="40" width="40" src="https://user-images.githubusercontent.com/106846090/211480013-631cf387-136f-49d0-8e10-feba24844d99.png"/>
 </div>
 
+##
 
-#
 <div
 <div align="center">
   <a href="mailto:arly.lcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
@@ -97,8 +109,16 @@ Estatística Aplicada
 </div>
 
 
-#
-[![GitHub Streak](https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=holi-theme&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+##
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=ARLY-LC-JUNIOR&theme=tokyonight&locale=pt_BR&mode=weekly&hide_border=true&background=0d1117"
+      height="120"
+    />
+  </a>
+</div>
 
 ##
 
