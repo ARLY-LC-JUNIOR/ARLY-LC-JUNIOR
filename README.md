@@ -1,8 +1,7 @@
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Hex(580200)&height=120&section=header"/><div align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39535b&size=30&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome,+I'm+Arly_Júnior+;I+am+from+São+Paulo,+Brazil;I+study+Technology;+Computer+Science;+and;+Important+courses+in;+Backend+programming+language+and+Database!;+Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39535b&size=30&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome,+I'm+Arly_Júnior+;I+am+from+São+Paulo,+Brazil;I+study+Technology;+Software+Engineering;+and;+Important+courses+in;+Backend+programming+language+and+Database!;+Be+Welcome!+:%29)
 <h1>​ 👋 Olá ! Sejam todos 🌎 bem vindos ao meu perfil .</h1> 
-
 
 
 <h1 align="center">🎓 Formação Acadêmica</h1>
