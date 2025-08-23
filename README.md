@@ -9,11 +9,11 @@
 
 <div align="left">
    
-- **🎓 Graduando:** Ciências da Computação.
+- **🎓 Graduando:** Engenharia de Software
 - **🎓 Cursando:** Pós Graduação em
 Estatística Aplicada 
 - **👨‍💼 Bacharel:** **Administração** - Conclusão em 12/2023  
-- **🔭 Atualmente:** No modo, Data Driven, excelência tática e operacional em suprimentos, Governança e Analytics. 
+- **🔭 Atualmente:** No modo Data Driven, planejamento logistico, excelência tática e operacional em suprimentos, Governança e Analytics. 
 
 - ## **💡 Cursos extracurriculares e aprendizados:**  
   - ## **Skills:**  
