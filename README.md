@@ -46,7 +46,7 @@ Estatística Aplicada
 ##
 
 <div align="center">
-  <h3> 😊 Com uma mente 🧠 sempre aberta para explorar as infinitas 🌐 possibilidades da tecnologia e análise de dados, meu foco está em impulsionar a inovação ⚡  e transformar aprendizados e ideias, em soluções práticas que impulsionem os negócios e gerem impactos reais.💡</h3>
+  <h3> Com uma mente sempre aberta para explorar as infinitas possibilidades da tecnologia e análise de dados, meu foco está em impulsionar a inovação e transformar aprendizados e ideias, em soluções práticas que impulsionem os negócios e gerem impactos reais.</h3>
 </div>
 
 ##
